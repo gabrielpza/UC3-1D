@@ -43,4 +43,6 @@ for (let i = 0; i < frutas.length; i++) {
 
   
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+https://codepen.io/schiffer69/pen/RwzEMVe
+https://codepen.io/schiffer69/pen/wvLNYpp
+https://codepen.io/schiffer69/pen/mdZaxmQ
